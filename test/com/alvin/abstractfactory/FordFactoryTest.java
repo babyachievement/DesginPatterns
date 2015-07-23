@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
 /**
- * Created by haoqiang on 2015/7/23.
+ * Created by babyachievement on 2015/7/23.
  */
 public class FordFactoryTest {
     private FordFactory fordFactory;

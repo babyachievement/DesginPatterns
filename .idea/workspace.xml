@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683ae9af-eb28-450f-9746-de96c595c1cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/BydDoor.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/BydDoor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/BydFactory.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/BydFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/BydWheel.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/BydWheel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/CarFactory.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/CarFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/CarMain.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/CarMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ClientMain.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ClientMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ExportDataApi.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ExportDataApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataFile.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataOperate.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataOperate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ExportOperate.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ExportOperate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFieApi.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFieApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFileOperate.java" afterPath="$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFileOperate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordDoor.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordDoor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordFactory.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordWheel.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordWheel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/IDoor.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/IDoor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/abstractfactory/IWheel.java" afterPath="$PROJECT_DIR$/src/com/alvin/abstractfactory/IWheel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java" afterPath="$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesginPatterns.iws" />
@@ -66,11 +50,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExportDataApi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDataApi.java">
+      <file leaf-file-name="CarFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/CarFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FordFactoryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2635659">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FordFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/FordFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IWheel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/IWheel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ClientMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/CarMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FordDoor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/FordDoor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FordWheel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/FordWheel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IDoor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/IDoor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BydWheel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/BydWheel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -108,7 +184,6 @@
         <option value="$PROJECT_DIR$/src/com/alvin/fatory/com/alvin/abstractfactory/CarFactory.java" />
         <option value="$PROJECT_DIR$/src/abstractfactory/CarFactory.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordFactoryTest.java" />
-        <option value="$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFileOperate.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataFile.java" />
@@ -127,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/com/alvin/abstractfactory/FordWheel.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/abstractfactory/IDoor.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/abstractfactory/IWheel.java" />
+        <option value="$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -198,6 +274,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="abstractfactory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -742,7 +836,7 @@
       <updated>1437622282510</updated>
       <workItem from="1437622284314" duration="5721000" />
       <workItem from="1437630177158" duration="88000" />
-      <workItem from="1437630331597" duration="7932000" />
+      <workItem from="1437630331597" duration="8064000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1437637098952</created>
@@ -780,11 +874,17 @@
       <option name="project" value="LOCAL" />
       <updated>1437639006612</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update gitignore">
+      <created>1437639440434</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1437639440434</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13741000" />
+    <option name="totallyTimeSpent" value="13873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -982,16 +1082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0872093">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16472869">
@@ -1044,6 +1134,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFieApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFileOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDataApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1139,54 +1280,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDbDataOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFieApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportTxtFileOperate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/fatory/ExportDataApi.java">
+    <entry file="file://$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2635659">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
