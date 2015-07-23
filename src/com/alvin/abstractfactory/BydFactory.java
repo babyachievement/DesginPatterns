@@ -1,7 +1,7 @@
 package com.alvin.abstractfactory;
 
 /**
- * Created by haoqiang on 2015/7/23.
+ * Created by babyachievement on 2015/7/23.
  */
 public class BydFactory extends  CarFactory {
     @Override
