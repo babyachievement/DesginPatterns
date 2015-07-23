@@ -721,7 +721,7 @@
       <updated>1437622282510</updated>
       <workItem from="1437622284314" duration="5721000" />
       <workItem from="1437630177158" duration="88000" />
-      <workItem from="1437630331597" duration="6509000" />
+      <workItem from="1437630331597" duration="6705000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1437637098952</created>
@@ -741,11 +741,17 @@
       <option name="project" value="LOCAL" />
       <updated>1437637942392</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update gitignore">
+      <created>1437638012752</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1437638012752</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12318000" />
+    <option name="totallyTimeSpent" value="12514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1142,8 +1148,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.036093418">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.072186835">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
