@@ -2,7 +2,7 @@ package com.alvin.fatory;
 
 /**
  * Created by haoqiang on 2015/7/23.
- * 工厂方法参考自
+ * 鍙傝�冭嚜
  * http://sishuok.com/forum/blogPost/list/86.html
  */
 public class ClientMain {
