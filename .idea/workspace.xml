@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683ae9af-eb28-450f-9746-de96c595c1cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" />
+      <change type="DELETED" beforePath="C:\Users\haoqiang\IdeaProjects\DesginPatterns\src\com\alvin\lijianzhong\design\patterns\abstractfactory\README" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README.md" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesginPatterns.iws" />
@@ -66,157 +67,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MODULES/mdl-DesginPatterns" pinned="false" current-in-tab="false">
-        <entry file="uml://MODULES/mdl-DesginPatterns">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>MODULES</ID>
-              <OriginalElement>mdl-DesginPatterns</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">mdl-DesginPatterns</node>
-              </nodes>
-              <notes />
-              <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="-233.0" y="-110.0" />
-              <SelectedNodes>
-                <node>mdl-DesginPatterns</node>
-              </SelectedNodes>
-              <Categories />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.alvin.abstractfactory" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.alvin.abstractfactory">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.alvin.abstractfactory</OriginalElement>
-              <nodes>
-                <node x="61.5" y="0.0">com.alvin.abstractfactory.CarFactory</node>
-                <node x="108.0" y="232.0">com.alvin.abstractfactory.BydWheel</node>
-                <node x="290.5" y="153.0">com.alvin.abstractfactory.IDoor</node>
-                <node x="331.0" y="232.0">com.alvin.abstractfactory.FordDoor</node>
-                <node x="120.0" y="79.0">com.alvin.abstractfactory.BydFactory</node>
-                <node x="0.0" y="306.0">com.alvin.abstractfactory.FordFactoryTest</node>
-                <node x="235.0" y="232.0">com.alvin.abstractfactory.BydDoor</node>
-                <node x="0.0" y="232.0">com.alvin.abstractfactory.FordWheel</node>
-                <node x="169.0" y="306.0">com.alvin.abstractfactory.CarMain</node>
-                <node x="0.0" y="79.0">com.alvin.abstractfactory.FordFactory</node>
-                <node x="61.5" y="153.0">com.alvin.abstractfactory.IWheel</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.alvin.abstractfactory.FordDoor" target="com.alvin.abstractfactory.IDoor">
-                  <point x="0.0" y="-14.5" />
-                  <point x="372.0" y="207.0" />
-                  <point x="338.5" y="207.0" />
-                  <point x="16.0" y="14.5" />
-                </edge>
-                <edge source="com.alvin.abstractfactory.FordWheel" target="com.alvin.abstractfactory.IWheel">
-                  <point x="0.0" y="-14.5" />
-                  <point x="44.0" y="207.0" />
-                  <point x="79.0" y="207.0" />
-                  <point x="-17.5" y="14.5" />
-                </edge>
-                <edge source="com.alvin.abstractfactory.BydWheel" target="com.alvin.abstractfactory.IWheel">
-                  <point x="0.0" y="-14.5" />
-                  <point x="149.0" y="207.0" />
-                  <point x="114.0" y="207.0" />
-                  <point x="17.5" y="14.5" />
-                </edge>
-                <edge source="com.alvin.abstractfactory.BydFactory" target="com.alvin.abstractfactory.CarFactory">
-                  <point x="0.0" y="-14.5" />
-                  <point x="167.0" y="54.0" />
-                  <point x="132.0" y="54.0" />
-                  <point x="23.5" y="14.5" />
-                </edge>
-                <edge source="com.alvin.abstractfactory.BydDoor" target="com.alvin.abstractfactory.IDoor">
-                  <point x="0.0" y="-14.5" />
-                  <point x="273.0" y="207.0" />
-                  <point x="306.5" y="207.0" />
-                  <point x="-16.0" y="14.5" />
-                </edge>
-                <edge source="com.alvin.abstractfactory.FordFactory" target="com.alvin.abstractfactory.CarFactory">
-                  <point x="0.0" y="-14.5" />
-                  <point x="50.0" y="54.0" />
-                  <point x="85.0" y="54.0" />
-                  <point x="-23.5" y="14.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-112.5" y="63.0" />
-              <SelectedNodes />
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/com.alvin.lijianzhong.design.patterns.abstractfactory" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.alvin.lijianzhong.design.patterns.abstractfactory">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.alvin.lijianzhong.design.patterns.abstractfactory</OriginalElement>
-              <nodes>
-                <node x="270.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Tunnel</node>
-                <node x="108.0" y="79.0">com.alvin.lijianzhong.design.patterns.abstractfactory.modern</node>
-                <node x="0.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Road</node>
-                <node x="160.0" y="300.0">com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory</node>
-                <node x="138.0" y="192.0">com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory</node>
-                <node x="78.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Building</node>
-                <node x="-42.0" y="307.0">com.alvin.lijianzhong.design.patterns.abstractfactory.GameManager</node>
-                <node x="180.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Jungle</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.GameManager" target="com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory" target="com.alvin.lijianzhong.design.patterns.abstractfactory.modern">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Tunnel">
-                  <point x="44.25" y="-14.5" />
-                  <point x="211.25" y="59.0" />
-                  <point x="305.0" y="59.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Road">
-                  <point x="-44.25" y="-14.5" />
-                  <point x="122.75" y="59.0" />
-                  <point x="29.0" y="59.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Building">
-                  <point x="-14.75" y="-14.5" />
-                  <point x="152.25" y="49.0" />
-                  <point x="119.0" y="49.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory" target="com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory">
-                  <point x="0.0" y="-14.5" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Jungle">
-                  <point x="14.75" y="-14.5" />
-                  <point x="181.75" y="49.0" />
-                  <point x="215.0" y="49.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-187.0" y="46.0" />
-              <SelectedNodes />
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -227,20 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Building.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Building.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1440678">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tunnel.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Tunnel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Tunnel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.15777262">
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
@@ -341,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Road.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/ModernFacilitiesFactory.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" />
+        <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README.md" />
       </list>
     </option>
   </component>
@@ -362,10 +213,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="111" />
+    <option name="y" value="105" />
     <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="height" value="835" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -445,72 +296,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesginPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesginPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesginPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesginPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abstractfactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesginPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DesginPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alvin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -529,7 +314,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory" />
     <property name="FullScreen" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns" />
   </component>
@@ -1015,7 +800,7 @@
       <workItem from="1437622284314" duration="5721000" />
       <workItem from="1437630177158" duration="88000" />
       <workItem from="1437630331597" duration="8709000" />
-      <workItem from="1439540029435" duration="4393000" />
+      <workItem from="1439540029435" duration="5263000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1437637098952</created>
@@ -1071,19 +856,31 @@
       <option name="project" value="LOCAL" />
       <updated>1439546473309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add lijianzhong abstract factory">
+      <created>1439546582315</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1439546582315</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add lijianzhong abstract factory">
+      <created>1439546791099</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1439546791099</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18911000" />
+    <option name="totallyTimeSpent" value="19781000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="111" y="105" width="1456" height="835" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32839838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34757835" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32974428" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1137,14 +934,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/abstractfactory/CarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/com/alvin/abstractfactory/FordFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1469,14 +1258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Tunnel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Jungle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1490,6 +1271,91 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.alvin.lijianzhong.design.patterns.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.alvin.lijianzhong.design.patterns.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Tunnel</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.modern</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Road</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Building</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.GameManager</node>
+            <node x="" y="">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Jungle</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="132.0" y="28.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.alvin.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.alvin.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.alvin.abstractfactory.CarFactory</node>
+            <node x="" y="">com.alvin.abstractfactory.BydWheel</node>
+            <node x="" y="">com.alvin.abstractfactory.IDoor</node>
+            <node x="" y="">com.alvin.abstractfactory.FordDoor</node>
+            <node x="" y="">com.alvin.abstractfactory.BydFactory</node>
+            <node x="" y="">com.alvin.abstractfactory.FordFactoryTest</node>
+            <node x="" y="">com.alvin.abstractfactory.BydDoor</node>
+            <node x="" y="">com.alvin.abstractfactory.FordWheel</node>
+            <node x="" y="">com.alvin.abstractfactory.CarMain</node>
+            <node x="" y="">com.alvin.abstractfactory.FordFactory</node>
+            <node x="" y="">com.alvin.abstractfactory.IWheel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="206.5" y="45.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-DesginPatterns">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-DesginPatterns</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-DesginPatterns</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="86.0" y="-127.5" />
+          <SelectedNodes />
+          <Categories />
         </state>
       </provider>
     </entry>
@@ -1507,163 +1373,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://MODULES/mdl-DesginPatterns">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MODULES</ID>
-          <OriginalElement>mdl-DesginPatterns</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">mdl-DesginPatterns</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-233.0" y="-110.0" />
-          <SelectedNodes>
-            <node>mdl-DesginPatterns</node>
-          </SelectedNodes>
-          <Categories />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.alvin.abstractfactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.alvin.abstractfactory</OriginalElement>
-          <nodes>
-            <node x="61.5" y="0.0">com.alvin.abstractfactory.CarFactory</node>
-            <node x="108.0" y="232.0">com.alvin.abstractfactory.BydWheel</node>
-            <node x="290.5" y="153.0">com.alvin.abstractfactory.IDoor</node>
-            <node x="331.0" y="232.0">com.alvin.abstractfactory.FordDoor</node>
-            <node x="120.0" y="79.0">com.alvin.abstractfactory.BydFactory</node>
-            <node x="0.0" y="306.0">com.alvin.abstractfactory.FordFactoryTest</node>
-            <node x="235.0" y="232.0">com.alvin.abstractfactory.BydDoor</node>
-            <node x="0.0" y="232.0">com.alvin.abstractfactory.FordWheel</node>
-            <node x="169.0" y="306.0">com.alvin.abstractfactory.CarMain</node>
-            <node x="0.0" y="79.0">com.alvin.abstractfactory.FordFactory</node>
-            <node x="61.5" y="153.0">com.alvin.abstractfactory.IWheel</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.alvin.abstractfactory.FordDoor" target="com.alvin.abstractfactory.IDoor">
-              <point x="0.0" y="-14.5" />
-              <point x="372.0" y="207.0" />
-              <point x="338.5" y="207.0" />
-              <point x="16.0" y="14.5" />
-            </edge>
-            <edge source="com.alvin.abstractfactory.FordWheel" target="com.alvin.abstractfactory.IWheel">
-              <point x="0.0" y="-14.5" />
-              <point x="44.0" y="207.0" />
-              <point x="79.0" y="207.0" />
-              <point x="-17.5" y="14.5" />
-            </edge>
-            <edge source="com.alvin.abstractfactory.BydWheel" target="com.alvin.abstractfactory.IWheel">
-              <point x="0.0" y="-14.5" />
-              <point x="149.0" y="207.0" />
-              <point x="114.0" y="207.0" />
-              <point x="17.5" y="14.5" />
-            </edge>
-            <edge source="com.alvin.abstractfactory.BydFactory" target="com.alvin.abstractfactory.CarFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="167.0" y="54.0" />
-              <point x="132.0" y="54.0" />
-              <point x="23.5" y="14.5" />
-            </edge>
-            <edge source="com.alvin.abstractfactory.BydDoor" target="com.alvin.abstractfactory.IDoor">
-              <point x="0.0" y="-14.5" />
-              <point x="273.0" y="207.0" />
-              <point x="306.5" y="207.0" />
-              <point x="-16.0" y="14.5" />
-            </edge>
-            <edge source="com.alvin.abstractfactory.FordFactory" target="com.alvin.abstractfactory.CarFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="50.0" y="54.0" />
-              <point x="85.0" y="54.0" />
-              <point x="-23.5" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-112.5" y="63.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.alvin.lijianzhong.design.patterns.abstractfactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.alvin.lijianzhong.design.patterns.abstractfactory</OriginalElement>
-          <nodes>
-            <node x="270.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Tunnel</node>
-            <node x="108.0" y="79.0">com.alvin.lijianzhong.design.patterns.abstractfactory.modern</node>
-            <node x="0.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Road</node>
-            <node x="160.0" y="300.0">com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory</node>
-            <node x="138.0" y="192.0">com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory</node>
-            <node x="78.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Building</node>
-            <node x="-42.0" y="307.0">com.alvin.lijianzhong.design.patterns.abstractfactory.GameManager</node>
-            <node x="180.0" y="0.0">com.alvin.lijianzhong.design.patterns.abstractfactory.base.Jungle</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.GameManager" target="com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory" target="com.alvin.lijianzhong.design.patterns.abstractfactory.modern">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Tunnel">
-              <point x="44.25" y="-14.5" />
-              <point x="211.25" y="59.0" />
-              <point x="305.0" y="59.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Road">
-              <point x="-44.25" y="-14.5" />
-              <point x="122.75" y="59.0" />
-              <point x="29.0" y="59.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Building">
-              <point x="-14.75" y="-14.5" />
-              <point x="152.25" y="49.0" />
-              <point x="119.0" y="49.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.ModernFacilitiesFactory" target="com.alvin.lijianzhong.design.patterns.abstractfactory.FacilitiesFactory">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.alvin.lijianzhong.design.patterns.abstractfactory.modern" target="com.alvin.lijianzhong.design.patterns.abstractfactory.base.Jungle">
-              <point x="14.75" y="-14.5" />
-              <point x="181.75" y="49.0" />
-              <point x="215.0" y="49.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-187.0" y="46.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.392858">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state vertical-scroll-proportion="-11.964286">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -1671,9 +1384,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java">
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Tunnel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1440678">
+        <state vertical-scroll-proportion="0.15777262">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
