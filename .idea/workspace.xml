@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="683ae9af-eb28-450f-9746-de96c595c1cd" name="Default" comment="update gitignore">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/AbstractFactory.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/FacilitiesFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/GameManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Jungle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/modern/ModernBuilding.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/ModernFacilitiesFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/modern/ModernJungle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/modern/ModernRoad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/modern/ModernTunnel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Road.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/SingltonUsingEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Tunnel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="683ae9af-eb28-450f-9746-de96c595c1cd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" afterPath="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesginPatterns.iws" />
@@ -65,18 +50,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FacilitiesFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/FacilitiesFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ModernFacilitiesFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/ModernFacilitiesFactory.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -244,20 +217,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0720339">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Building.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Building.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.1440678">
               <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
@@ -351,7 +324,6 @@
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Road.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/SingltonUsingEnum.java" />
-        <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/Road.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/Building.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/Tunnel.java" />
@@ -368,6 +340,7 @@
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Jungle.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Road.java" />
         <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/ModernFacilitiesFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README" />
       </list>
     </option>
   </component>
@@ -469,6 +442,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="abstractfactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="abstractfactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesginPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alvin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -976,7 +1015,7 @@
       <workItem from="1437622284314" duration="5721000" />
       <workItem from="1437630177158" duration="88000" />
       <workItem from="1437630331597" duration="8709000" />
-      <workItem from="1439540029435" duration="4261000" />
+      <workItem from="1439540029435" duration="4393000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1437637098952</created>
@@ -1026,11 +1065,17 @@
       <option name="project" value="LOCAL" />
       <updated>1437639570992</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add lijianzhong abstract factory">
+      <created>1439546473308</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1439546473309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18779000" />
+    <option name="totallyTimeSpent" value="18911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1078,7 +1123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="update gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update gitignore" />
+    <MESSAGE value="add lijianzhong abstract factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lijianzhong abstract factory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1376,17 +1422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.75">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/modern/ModernRoad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1431,14 +1466,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1627,8 +1654,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/singleton/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0720339">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.392858">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alvin/lijianzhong/design/patterns/abstractfactory/base/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1440678">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>

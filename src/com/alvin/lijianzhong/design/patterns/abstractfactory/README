@@ -16,6 +16,6 @@
 >提供一个接口，让该接口负责创建一系列“相关或者相互依赖的对象”，无需指定他们具体的类。 -GOF《设计模式》
 
 
-![Structure](./AbstractFactory.png)
+![Structure](AbstractFactory.png)
 
 
