@@ -5,9 +5,7 @@
 耦合关系直接决定着软件米娜对变化时的行为
 
 * 模块与模块之间的紧耦合使得软件面对变化时，相关的模块都要随之更改
-<div style="text-align:center">
-    <img src="jinouhe.png" style="display:inline"/>
-</div>
+
 ![紧耦合](jinouhe.png)
 
 如果软件不变化，上面这幅图能够很好的应对，但软件的变化性决定了这种方式很难应对。
