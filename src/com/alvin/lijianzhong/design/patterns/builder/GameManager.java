@@ -19,6 +19,9 @@ public class GameManager {
      */
     public void construct()
     {
+        /**
+         * 这里建几扇门，几面墙，几扇窗是稳定的
+         */
         builder.buildDoor();
 
         builder.buildWall();
